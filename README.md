@@ -6,7 +6,11 @@
 ただし、中身が実装されていません。
 実装して、ユニットテストが通るようにしてください。
 
-[![MS Build and Test](https://github.com/KanjukuMikan/comp2_7_stack/actions/workflows/ms_test.yml/badge.svg)](https://github.com/KanjukuMikan/comp2_7_stack/actions/workflows/ms_test.yml)
+<<<<<<< HEAD
+[![MS Build and Test](https://github.com/MikanKanjuku/comp2_7_stack/actions/workflows/ms_test.yml/badge.svg)](https://github.com/MikanKanjuku/comp2_7_stack/actions/workflows/ms_test.yml)
+=======
+[![MS Build and Test](https://github.com/MikanKanjuku/comp2_7_stack/actions/workflows/ms_test.yml/badge.svg)](https://github.com/MikanKanjuku/comp2_7_stack/actions/workflows/ms_test.yml)
+>>>>>>> d42b21459dd8f729b4aabebfdc67eec9c1721555
 
 （このファイルの上の行の「tpu-game-2024」の部分（2か所）を自分のアカウント名に修正してください）
 

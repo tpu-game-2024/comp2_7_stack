@@ -4,7 +4,7 @@
 
 #include "../include/lib_func.h"
 
-
+//test
 // mem_size の容量でスタック用のメモリを確保する
 void initialize(STACK* s, size_t mem_size)
 {
